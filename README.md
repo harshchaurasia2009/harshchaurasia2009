@@ -1,27 +1,27 @@
 # Hi 👋, I'm Harsh Chaurasia
 
-### Student Developer 🚀
+### 🚀 Student Developer
 
-Welcome to my GitHub profile! I'm a beginner developer who is learning, building projects, and improving my coding skills.
+Building projects | Learning new technologies | Growing every day
 
-- 🌱 I'm currently learning programming and software development
-- 💻 I'm interested in Web Development and AI
-- 🚀 I'm currently working on my first projects
-- 📚 I'm learning new things every day
-- 🎯 My goal is to become a skilled software developer
-- 📫 How to reach me: harshchaurasia2009@gmail.com
+- 🌱 Currently learning Programming & Web Development
+- 💻 Interested in AI & Software Development
+- 🚀 Working on personal projects
+- 🎯 Goal: Become a skilled software developer
+- 📫 Email: harshchaurasia2009@gmail.com
 
-## About Me
+## 🛠️ Tech Stack
 
-I am starting my journey in software development. I enjoy learning new technologies, building projects, and solving coding problems.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## My Goals
+## 🌐 Connect With Me
 
-- Learn programming fundamentals
-- Build useful projects
-- Improve my problem-solving skills
-- Learn Web Development
-- Explore Artificial Intelligence
+📧 harshchaurasia2009@gmail.com
 
 ---
 
