@@ -10,16 +10,6 @@ Building projects | Learning new technologies | Growing every day
 - 🎯 Goal: Become a skilled software developer
 - 📫 Email: harshchaurasia2009@gmail.com
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-chaurasia-40a568414/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshchaurasia2009@gmail.com)
-
-## 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshchaurasia2009&theme=github-dark)
-
-
 ## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
