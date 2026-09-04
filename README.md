@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh Chaurasia
 
-<!--
-**harshchaurasia2009/harshchaurasia2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student Developer 🚀
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a beginner developer who is learning, building projects, and improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning programming and software development
+- 💻 I'm interested in Web Development and AI
+- 🚀 I'm currently working on my first projects
+- 📚 I'm learning new things every day
+- 🎯 My goal is to become a skilled software developer
+- 📫 How to reach me: harshchaurasia2009@gmail.com
+
+## About Me
+
+I am starting my journey in software development. I enjoy learning new technologies, building projects, and solving coding problems.
+
+## My Goals
+
+- Learn programming fundamentals
+- Build useful projects
+- Improve my problem-solving skills
+- Learn Web Development
+- Explore Artificial Intelligence
+
+---
+
+⭐ Thanks for visiting my profile!
